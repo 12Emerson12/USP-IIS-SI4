@@ -16,6 +16,7 @@ namespace LOGIN
         {
             InitializeComponent();
             LABELADMINISTRADOR.Text = Nombre;
+            
         }
     }
 }
